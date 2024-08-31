@@ -1,8 +1,8 @@
 # 国内域名
 payload:
-    #baidu
+  #baidu
   - DOMAIN-KEYWORD,baidu
-    #aliyun
+  #aliyun
   - DOMAIN-KEYWORD,aliyun
-    #tencent
+  #tencent
   - DOMAIN-KEYWORD,tencent
