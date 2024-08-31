@@ -1,5 +1,25 @@
 # 国际线路的代理
 payload:
-  - *.google.com
-  - *.google.com.hk
-  
+  #google
+  - "*.google.com"
+  - "*.googleapis.com"
+  - "*.googleusercontent.com"
+  - "*.google"
+  - "*.google.com.hk"
+
+  #github
+  - "*.githubusercontent.com"
+  - "*.github.com"
+  - "*.github.io"
+  - "github.global.ssl.fastly.net"
+  - "assets-cdn.github.com"
+  #docker
+  - "*.docker.com"
+  - "*.docker.io"
+  - "*.docker.com"
+
+  #twitch
+  - "twitch.tv"
+  - "*.twitch.tv"
+  - "*.twitchcdn.net"
+  - "*.twitchsvc.net"
