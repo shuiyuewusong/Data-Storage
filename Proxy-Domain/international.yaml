@@ -1,2 +1,5 @@
 # 国际线路的代理
 payload:
+  - *.google.com
+  - *.google.com.hk
+  
