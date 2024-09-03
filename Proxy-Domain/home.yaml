@@ -1,10 +1,19 @@
 # 国内域名
 payload:
+  #cn
+  - DOMAIN-SUFFIX,.cn
   #baidu
   - DOMAIN-KEYWORD,baidu
-    #aliyun
+  #aliyun
   - DOMAIN-KEYWORD,aliyun
-    #tencent
+  - DOMAIN-KEYWORD,alibaba
+  #tencent
   - DOMAIN-KEYWORD,tencent
-    #jetbrains
+  #jetbrains
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,toolbox.app #toolbox.app
+  #microsoft
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-SUFFIX,clarity.ms
+  #vscode 
+  - DOMAIN-SUFFIX,trafficmanager.net
