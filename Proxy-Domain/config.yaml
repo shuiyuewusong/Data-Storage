@@ -140,11 +140,11 @@ rule-providers:
     path: "./rule_provider/international.yaml"
     format: yaml
     url: https://raw.githubusercontent.com/shuiyuewusong/Data-Storage/main/Proxy-Domain/international.yaml
-    interval: 86400
+    interval: 3600
   home:
     type: http
     behavior: classical
     path: "./rule_provider/home.yaml"
     format: yaml
     url: https://raw.githubusercontent.com/shuiyuewusong/Data-Storage/main/Proxy-Domain/home.yaml
-    interval: 86400
+    interval: 3600

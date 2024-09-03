@@ -1,37 +1,27 @@
 # 国际线路
 payload:
   #google
-  - "*.google.com"
-  - "*.googleapis.com"
-  - "*.googleusercontent.com"
-  - "*.google"
-  - "*.google.com.hk"
-
+  - DOMAIN-KEYWORD,google
   #github
-  - "*.githubusercontent.com"
-  - "*.github.com"
-  - "*.github.io"
-  - "github.global.ssl.fastly.net"
-  - "assets-cdn.github.com"
+  - DOMAIN-KEYWORD,github
   #docker
-  - "*.docker.com"
-  - "*.docker.io"
-  - "*.docker.com"
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-KEYWORD,docker
 
   #twitch
-  - "twitch.tv"
-  - "*.twitch.tv"
-  - "*.twitchcdn.net"
-  - "*.twitchsvc.net"
+  - DOMAIN-KEYWORD,twitch
   #twitter
-  - "*.twitter.com"
-###########################################################################################################################################################################################################################################
-#无法形容的
+  - DOMAIN-KEYWORD,twitter
+  #steam
+  - DOMAIN-KEYWORD,steam
+  ###########################################################################################################################################################################################################################################
+  #无法形容的
   #18comic
-  - "*.18comic.vip"
+  - DOMAIN-SUFFIX,18comic.vip
   #pornhub
-  - "*.pornhub.com"
+  - DOMAIN-SUFFIX,pornhub.com
   #hitomi.la
-  - "*.hitomi.la"
+  - DOMAIN-SUFFIX,hitomi.la
   #wnacg.com
-  - "*.wnacg.com"
+  - DOMAIN-SUFFIX,wnacg.com

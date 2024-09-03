@@ -15,5 +15,5 @@ payload:
   #microsoft
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,clarity.ms
-  #vscode 
+  #vscode
   #- DOMAIN-SUFFIX,trafficmanager.net
