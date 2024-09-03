@@ -2,7 +2,9 @@
 payload:
   #baidu
   - DOMAIN-KEYWORD,baidu
-  #aliyun
+    #aliyun
   - DOMAIN-KEYWORD,aliyun
-  #tencent
+    #tencent
   - DOMAIN-KEYWORD,tencent
+    #jetbrains
+  - DOMAIN-SUFFIX,jetbrains.com

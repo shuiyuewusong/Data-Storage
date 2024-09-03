@@ -58,7 +58,7 @@ dns: # DNS 服务设置 # 此部分是可选的. 当不存在时, DNS 服务将�
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16 # Fake IP 地址池 CIDR
   fake-ip-filter: # 此列表中的主机名将不会使用 Fake IP 解析   # 即, 对这些域名的请求将始终使用其真实 IP 地址进行响应
-      # 内网域名
+    # 内网域名
     - "*.ch7.top"
     - "reader.ch7.top"
     - "nas.ch7.top"
@@ -123,7 +123,7 @@ rules: #路由
   - DOMAIN-SUFFIX,dyndns.org,DIRECT
   - DOMAIN-SUFFIX,synocommunity.com,DIRECT
   - DOMAIN-SUFFIX,ch7.top,DIRECT # 特定域名直接直连
-  - IP-CIDR,198.18.0.1/16,REJECT,no-resolve 
+  - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
   - DOMAIN-KEYWORD,.google.,HelloWorld
   - DOMAIN-KEYWORD,.github.,HelloWorld
   - DOMAIN-SUFFIX,githubusercontent.com,HelloWorld
