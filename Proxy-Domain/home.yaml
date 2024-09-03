@@ -10,10 +10,10 @@ payload:
   #tencent
   - DOMAIN-KEYWORD,tencent
   #jetbrains
-  - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,toolbox.app #toolbox.app
+  #- DOMAIN-SUFFIX,jetbrains.com
+  #- DOMAIN-SUFFIX,toolbox.app #toolbox.app
   #microsoft
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,clarity.ms
   #vscode 
-  - DOMAIN-SUFFIX,trafficmanager.net
+  #- DOMAIN-SUFFIX,trafficmanager.net
