@@ -35,9 +35,11 @@ payload:
   #alternativeto.net
   - DOMAIN-SUFFIX,alternativeto.net
   #openalternative.co
+  - DOMAIN,openalternative.co
   - DOMAIN-SUFFIX,openalternative.co
   #similarsites.com
   - DOMAIN-SUFFIX,similarsites.com
+  - DOMAIN-SUFFIX,gstatic.com
   #mvnrepository.com
   - DOMAIN-SUFFIX,mvnrepository.com
   #stackoverflow
