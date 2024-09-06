@@ -41,6 +41,7 @@ payload:
   #similarsites.com
   - DOMAIN-KEYWORD,similarsites
   - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-KEYWORD,similarcdn
   #mvnrepository.com
   - DOMAIN-SUFFIX,mvnrepository.com
   #stackoverflow
