@@ -15,6 +15,9 @@ payload:
   - DOMAIN-KEYWORD,alibaba
   #tencent
   - DOMAIN-KEYWORD,tencent
+  #bilibili
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-SUFFIX,b23.tv
   #jetbrains
   #- DOMAIN-SUFFIX,jetbrains.com
   #- DOMAIN-SUFFIX,toolbox.app #toolbox.app
