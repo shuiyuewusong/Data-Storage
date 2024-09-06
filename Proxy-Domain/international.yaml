@@ -1,4 +1,7 @@
-# 国际线路
+#语法:
+#DOMAIN-KEYWORD 使用域名关键字匹配
+#DOMAIN-SUFFIX 匹配域名后缀 例：google.com匹配www.google.com/mail.google.com和google.com,但不匹配content-google.com
+#国际线路
 payload:
   #google
   - DOMAIN-KEYWORD,google
@@ -8,11 +11,30 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-KEYWORD,docker
-
+  #Instagram
+  - DOMAIN-KEYWORD,Instagram
+  #Facebook
+  - DOMAIN-KEYWORD,Facebook
+  - DOMAIN-KEYWORD,meta
+  #YouTube
+  - DOMAIN-KEYWORD,YouTube
+  #Spotify
+  - DOMAIN-KEYWORD,Spotify
   #twitch
   - DOMAIN-KEYWORD,twitch
   #twitter
   - DOMAIN-KEYWORD,twitter
+  - DOMAIN-SUFFIX,x.com
+  #alternativeto.net
+  - DOMAIN-SUFFIX,alternativeto.net
+  #openalternative.co
+  - DOMAIN-SUFFIX,openalternative.co
+  #similarsites.com
+  - DOMAIN-SUFFIX,similarsites.com
+  #mvnrepository.com
+  - DOMAIN-SUFFIX,mvnrepository.com
+  #stackoverflow
+  - DOMAIN-KEYWORD,stackoverflow
   ###########################################################################################################################################################################################################################################
   #无法形容的
   #18comic
@@ -23,3 +45,23 @@ payload:
   - DOMAIN-SUFFIX,hitomi.la
   #wnacg.com
   - DOMAIN-SUFFIX,wnacg.com
+  #exhentai.org
+  - DOMAIN-KEYWORD,exhentai
+  - DOMAIN-KEYWORD,e-hentai
+  #vhentai.org
+  - DOMAIN-KEYWORD,vhentai
+  #pixiv.net
+  - DOMAIN-KEYWORD,pixiv
+  #xporno.online
+  - DOMAIN-KEYWORD,xporno
+  #eporner.com
+  - DOMAIN-KEYWORD,eporner
+  #leakedzone.com
+  - DOMAIN-KEYWORD,leakedzone
+  #hanime1.me
+  - DOMAIN-KEYWORD,hanime1
+  #xvideos.com
+  - DOMAIN-KEYWORD,xvideos
+  #netflav.com
+  - DOMAIN-KEYWORD,netflav
+  #
