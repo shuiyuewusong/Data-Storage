@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,x.com
   #reddit.com
   - DOMAIN-SUFFIX,reddit.com
+  #jsdelivr
+  - DOMAIN-KEYWORD,jsdelivr
   #学习网站
   #flutter.dev
   - DOMAIN-SUFFIX,flutter.dev
