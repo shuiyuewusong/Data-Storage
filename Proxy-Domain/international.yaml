@@ -25,6 +25,8 @@ payload:
   #twitter
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,x.com
+  #reddit.com
+  - DOMAIN-SUFFIX,reddit.com
   #学习网站
   #flutter.dev
   - DOMAIN-SUFFIX,flutter.dev
