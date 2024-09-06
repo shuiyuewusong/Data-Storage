@@ -33,13 +33,14 @@ payload:
   #flutter.dev
   - DOMAIN-SUFFIX,flutter.dev
   #alternativeto.net
-  - DOMAIN-SUFFIX,alternativeto.net
+  - DOMAIN-KEYWORD,alternativeto
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,googlesyndication
   #openalternative.co
-  - DOMAIN,openalternative.co
-  - DOMAIN-SUFFIX,openalternative.co
+  - DOMAIN-KEYWORD,openalternative
   #similarsites.com
-  - DOMAIN-SUFFIX,similarsites.com
-  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-KEYWORD,similarsites
+  - DOMAIN-KEYWORD,gstatic
   #mvnrepository.com
   - DOMAIN-SUFFIX,mvnrepository.com
   #stackoverflow
