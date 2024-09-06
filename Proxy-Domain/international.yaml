@@ -25,6 +25,9 @@ payload:
   #twitter
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,x.com
+  #学习网站
+  #flutter.dev
+  - DOMAIN-SUFFIX,flutter.dev
   #alternativeto.net
   - DOMAIN-SUFFIX,alternativeto.net
   #openalternative.co
@@ -35,6 +38,12 @@ payload:
   - DOMAIN-SUFFIX,mvnrepository.com
   #stackoverflow
   - DOMAIN-KEYWORD,stackoverflow
+  #gitbook.io
+  - DOMAIN-SUFFIX,gitbook.io
+  #clash.wiki
+  - DOMAIN-SUFFIX,clash.wiki
+  #metacubex.one
+  - DOMAIN-SUFFIX,metacubex.one
   ###########################################################################################################################################################################################################################################
   #无法形容的
   #18comic
@@ -60,6 +69,7 @@ payload:
   - DOMAIN-KEYWORD,leakedzone
   #hanime1.me
   - DOMAIN-KEYWORD,hanime1
+  - DOMAIN-SUFFIX,nhentai.net
   #xvideos.com
   - DOMAIN-KEYWORD,xvideos
   #netflav.com
