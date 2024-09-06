@@ -3,8 +3,6 @@
 #DOMAIN-SUFFIX 匹配域名后缀 例：google.com匹配www.google.com/mail.google.com和google.com,但不匹配content-google.com
 #国际线路
 payload:
-  #firefox.exe
-  - PROCESS-NAME,firefox
   #google
   - DOMAIN-KEYWORD,google
   #github
@@ -54,6 +52,8 @@ payload:
   - DOMAIN-SUFFIX,clash.wiki
   #metacubex.one
   - DOMAIN-SUFFIX,metacubex.one
+  #http://byxiao.top/
+  - DOMAIN-SUFFIX,byxiao.top
   ###########################################################################################################################################################################################################################################
   #无法形容的
   #18comic
