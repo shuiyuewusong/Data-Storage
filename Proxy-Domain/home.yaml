@@ -18,6 +18,8 @@ payload:
   #bilibili
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-SUFFIX,b23.tv
+  #database.clamav.net
+  - DOMAIN-SUFFIX,clamav.net
   #jetbrains
   #- DOMAIN-SUFFIX,jetbrains.com
   #- DOMAIN-SUFFIX,toolbox.app #toolbox.app
