@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,b23.tv
   #database.clamav.net
   - DOMAIN-SUFFIX,clamav.net
+  #apple
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
   #jetbrains
   #- DOMAIN-SUFFIX,jetbrains.com
   #- DOMAIN-SUFFIX,toolbox.app #toolbox.app
