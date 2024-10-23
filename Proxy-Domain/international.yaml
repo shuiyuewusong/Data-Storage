@@ -5,6 +5,8 @@
 payload:
   #google
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,googleapis
+
   #github
   - DOMAIN-KEYWORD,github
   #docker
@@ -58,7 +60,8 @@ payload:
   - DOMAIN-KEYWORD,isar
   #一元机场
   - DOMAIN-KEYWORD,一元机场
-
+  #gosecure
+  - DOMAIN-KEYWORD,gosecure
   ###########################################################################################################################################################################################################################################
   #无法形容的
   #18comic
