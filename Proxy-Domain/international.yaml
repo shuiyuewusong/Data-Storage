@@ -4,6 +4,7 @@
 #国际线路
 payload:
   #google
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,googleapis
 
