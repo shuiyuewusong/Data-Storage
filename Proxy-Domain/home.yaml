@@ -37,3 +37,5 @@ payload:
   - DOMAIN-KEYWORD,steam
   #opgg
   - DOMAIN-SUFFIX,op.gg
+  #riot
+  - DOMAIN-KEYWORD,riotcdn
