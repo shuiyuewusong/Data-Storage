@@ -39,3 +39,5 @@ payload:
   - DOMAIN-SUFFIX,op.gg
   #riot
   - DOMAIN-KEYWORD,riotcdn
+  #isapplesiliconready
+  - DOMAIN-KEYWORD,isapplesiliconready
