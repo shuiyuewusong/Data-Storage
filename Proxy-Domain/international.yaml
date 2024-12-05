@@ -5,6 +5,7 @@
 payload:
   #google
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,accounts.google.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,googleapis
 
