@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,accounts.google.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,googleapis
-
   #github
   - DOMAIN-KEYWORD,github
   #docker
@@ -70,7 +69,8 @@ payload:
   - DOMAIN-SUFFIX,wallhaven.cc
   #ubuntu 乌班图
   - DOMAIN-SUFFIX,ubuntu.com
-
+  #ipify.org
+  - DOMAIN-SUFFIX,ipify.org
   ###########################################################################################################################################################################################################################################
   #无法形容的
   #18comic
