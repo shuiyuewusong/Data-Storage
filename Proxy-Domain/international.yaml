@@ -101,4 +101,5 @@ payload:
   - DOMAIN-KEYWORD,xvideos
   #netflav.com
   - DOMAIN-KEYWORD,netflav
-  #
+  #hembed.com
+  - DOMAIN-SUFFIX,hembed.com
