@@ -6,6 +6,8 @@ payload:
   - DST-PORT,444-65535
   #loong-c.top
   - DOMAIN-SUFFIX,loong-c.top
+  #ch7.top
+  - DOMAIN-SUFFIX,ch7.top
   #cn
   - DOMAIN-SUFFIX,.cn
   #baidu
