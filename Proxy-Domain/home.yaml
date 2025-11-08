@@ -30,6 +30,7 @@ payload:
   #- DOMAIN-SUFFIX,toolbox.app #toolbox.app
   - DOMAIN,download-cdn.jetbrains.com
   - DOMAIN,download.jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.com
   #microsoft
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,clarity.ms
